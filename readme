@@ -1,0 +1,9 @@
+#Aplicativo de Lista de Tarefas
+Este é um simples aplicativo de lista de tarefas que permite ao usuário adicionar, editar, remover, e marcar tarefas como concluídas. O aplicativo foi desenvolvido em Python e é projetado para ajudar a gerenciar tarefas de forma prática e eficiente.
+
+Funcionalidades
+Adicionar Tarefas: Permite ao usuário adicionar novas tarefas à lista.
+Marcar Tarefas como Concluídas: Marca uma tarefa como concluída para indicar que a tarefa foi realizada.
+Editar Tarefas: Permite ao usuário editar o título de uma tarefa existente.
+Remover Tarefas: Exclui uma tarefa da lista.
+Listar Tarefas: Exibe todas as tarefas cadastradas, com a possibilidade de ver quais estão concluídas e quais não foram concluídas.
